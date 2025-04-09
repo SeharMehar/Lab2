@@ -7,6 +7,14 @@ Console.WriteLine("Enter ur name:"+ Name);
 Console.WriteLine("Enter ur Roll no:"+ Roll no);
  Console.ReadLine();
 
+ 1st-Semester
+"CP"
+"AppliedPhy"
+"isl"
+"EHS"
+"ITS"
+"Calculus"
+=======
 "Physics"
 "Math"
 "Eng"
@@ -14,3 +22,4 @@ Console.WriteLine("Enter ur Roll no:"+ Roll no);
 "PakStudy"
 "Chem"
 "Bio"
+FSC-Subjects

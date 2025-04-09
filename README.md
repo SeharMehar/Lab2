@@ -1,1 +1,6 @@
-# Lab2
+"OOP"
+"Eng"
+"SCM"
+"SDLC"
+"THQ"
+"Discrete Structure"
