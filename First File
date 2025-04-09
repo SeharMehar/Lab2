@@ -6,3 +6,10 @@ int Roll no = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter ur name:"+ Name);
 Console.WriteLine("Enter ur Roll no:"+ Roll no);
  Console.ReadLine();
+
+"CP"
+"AppliedPhy"
+"isl"
+"EHS"
+"ITS"
+"Calculus"
